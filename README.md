@@ -1,3 +1,7 @@
+```
+git submodule add https://github.com/EloiStree/2026_07_11_gdp_find_device_from_ports.git addons/2026_07_11_gdp_find_device_from_ports
+```
+
 # 2026_07_11_gdp_find_device_from_ports
 
 > mDNS may fail on Quest 3 and some devices. In that case, use a fixed IP or discover devices by scanning ports and creating a digital fingerprint.
